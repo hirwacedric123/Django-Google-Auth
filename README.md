@@ -33,7 +33,7 @@ AllAuthProj/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/AllAuthProj.git
+git clone https://github.com/hirwacedric123/Django-Google-Auth.git
 cd AllAuthProj
 ```
 
